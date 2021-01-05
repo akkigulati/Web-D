@@ -5,7 +5,7 @@
   "main": "main.js",
   "dependencies": {
     "chalk": "^3.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "figlet": "^1.2.4",
     "minimist": "^1.2.3",
     "ora": "^4.0.3"
